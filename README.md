@@ -12,5 +12,6 @@ RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 1 - Open your Sols Rng and Reset Character \
 2 - Aim to that part of grass's edge with your shiftlock in first person mode \
 ![howtouse](https://cdn.discordapp.com/attachments/1260228799963074562/1260229908886716497/img.png?ex=668e9010&is=668d3e90&hm=411f11145be0e4f0b1b520b809777e6dbc2988a06070baa7242a9a337a969e3d&) \
-3 - Press to your Playback Button without moving your camera
+3 - Get out of first person and ress to your Playback Button 
+*(dont forget , dont move the camera)*
 
