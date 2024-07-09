@@ -1,4 +1,4 @@
-# RelMacro (Only works for VIP)
+# RelMacro
 RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 (*dont forget its still beta*)
 ## How to setup the Macro
