@@ -7,6 +7,7 @@ RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 ![open](https://cdn.discordapp.com/attachments/1260228799963074562/1260247922541592576/image.png?ex=668ea0d7&is=668d4f57&hm=547342ec39ebfb8f4816fc136c3aaeb3b36f078df223099dfa28dd1fb5a05535&)\
 3 - Then go to the button called "Prefs" and enable "Continuous Playback" (or else macro will work only for 1 time) \
 ![prefs](https://cdn.discordapp.com/attachments/1260228799963074562/1260247955236061336/image.png?ex=668ea0de&is=668d4f5e&hm=80b51ac46354bbdfb4a574081e4c4ef37d26644cb21b77fb4ec702b562062095&)\
+![prefs2](https://cdn.discordapp.com/attachments/1260228799963074562/1260298349190320198/image.png?ex=668ecfcd&is=668d7e4d&hm=bc20e8da85cb237533faf2fce1de03d5a78db03fcd2c4ffdce40b5a938c228e5&)\
 4 - Then press the button in "Prefs" called "Playback Hotkey" (needed) and change it to the any button you want 
 ## How to use it
 1 - Open Sols Rng and Reset your character \
