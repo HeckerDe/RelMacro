@@ -4,9 +4,9 @@ RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 ## How to setup the Macro
 1 - First, u need to install [TinyTask](https://tinytask.net/download.html)
 2 - Open the file called "relmacrov1" by opening [TinyTask](https://tinytask.net/download.html) and using "Open" button \
-[open](https://cdn.discordapp.com/attachments/1260228799963074562/1260247922541592576/image.png?ex=668ea0d7&is=668d4f57&hm=547342ec39ebfb8f4816fc136c3aaeb3b36f078df223099dfa28dd1fb5a05535&)\
+![open](https://cdn.discordapp.com/attachments/1260228799963074562/1260247922541592576/image.png?ex=668ea0d7&is=668d4f57&hm=547342ec39ebfb8f4816fc136c3aaeb3b36f078df223099dfa28dd1fb5a05535&)\
 3 - Then go to the button called "Prefs" and enable "Continuous Playback" (or else macro will work only for 1 time) \
-[prefs](https://cdn.discordapp.com/attachments/1260228799963074562/1260247955236061336/image.png?ex=668ea0de&is=668d4f5e&hm=80b51ac46354bbdfb4a574081e4c4ef37d26644cb21b77fb4ec702b562062095&)
+![prefs](https://cdn.discordapp.com/attachments/1260228799963074562/1260247955236061336/image.png?ex=668ea0de&is=668d4f5e&hm=80b51ac46354bbdfb4a574081e4c4ef37d26644cb21b77fb4ec702b562062095&)
 4 - Then press the button in "Prefs" called "Playback Hotkey" (needed) \
 ## How to use it
 1 - Open your Sols Rng and Reset Character \
