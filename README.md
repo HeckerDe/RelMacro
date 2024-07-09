@@ -2,8 +2,8 @@
 RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 (*dont forget its still beta*)
 ## How to setup the Macro
-1 - First, u need to install [TinyTask](https://tinytask.net/download.html)
-2 - Open the file called "relmacro*(vip  or nonvip)*" by using [TinyTask](https://tinytask.net/download.html)'s "Open" button \
+1 - First, u need to install [TinyTask](https://tinytask.net/download.html) \
+2 - Open the file called "relmacro *(vip  or nonvip)* " by using [TinyTask](https://tinytask.net/download.html)'s "Open" button \
 ![open](https://cdn.discordapp.com/attachments/1260228799963074562/1260247922541592576/image.png?ex=668ea0d7&is=668d4f57&hm=547342ec39ebfb8f4816fc136c3aaeb3b36f078df223099dfa28dd1fb5a05535&)\
 3 - Then go to the button called "Prefs" and enable "Continuous Playback" (or else macro will work only for 1 time) \
 ![prefs](https://cdn.discordapp.com/attachments/1260228799963074562/1260247955236061336/image.png?ex=668ea0de&is=668d4f5e&hm=80b51ac46354bbdfb4a574081e4c4ef37d26644cb21b77fb4ec702b562062095&)\
