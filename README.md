@@ -14,7 +14,7 @@ RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 2 - Aim to that marked place (the edge of grass) \
 ![howtouse](https://cdn.discordapp.com/attachments/1260228799963074562/1260281276548648960/image.png?ex=668ebfe7&is=668d6e67&hm=f0b70309ad8be6bffd3eb4322b521ce1f705cf6efe9eae3cd233592f30113fb3&) \
 *(video)*\
-![howtousevid](https://cdn.discordapp.com/attachments/1260228799963074562/1260573247909662720/2024-07-10_15-13-36_1_1.gif?ex=668fcfd2&is=668e7e52&hm=dab8b991413e869d391fef517e6e2c6e46ecb7cd759efd03d440120778c61455&)\
+![howtousevid](https://media.discordapp.net/attachments/1260228799963074562/1260573247909662720/2024-07-10_15-13-36_1_1.gif?ex=668fcfd2&is=668e7e52&hm=dab8b991413e869d391fef517e6e2c6e46ecb7cd759efd03d440120778c61455&=&width=670&height=670)\
 3 - Get out of first person and press to your Playback Button 
 *(dont move your camera)*
 
