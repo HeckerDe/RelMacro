@@ -16,5 +16,5 @@ RelMacro is a macro for Sol's Rng Era 8 made by TinyTask \
 *(video)*\
 ![howtousevid](https://cdn.discordapp.com/attachments/1260228799963074562/1260573247909662720/2024-07-10_15-13-36_1_1.gif?ex=668fcfd2&is=668e7e52&hm=dab8b991413e869d391fef517e6e2c6e46ecb7cd759efd03d440120778c61455&) \
 3 - Get out of first person and press to your Playback Button 
-*(dont forget , dont move the camera)*
+*(dont move your camera)*
 
